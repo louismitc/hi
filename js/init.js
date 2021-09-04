@@ -18,7 +18,7 @@
 	});
 
 	// Events (JS).
-		
+
 		// Remove "loading" class once the page has fully loaded.
 			window.onload = function() {
 				document.body.className = '';
